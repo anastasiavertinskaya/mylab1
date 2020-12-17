@@ -1,3 +1,4 @@
+//lab1A var2
 package bsu.rfe.java.group7.lab1.Vertinskaya.varA2;
 
 public class MainApp {
