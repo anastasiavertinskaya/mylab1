@@ -31,7 +31,7 @@ public class MainApp {
         System.out.println("Яблок съедено: " + sumApple);
         System.out.println("Пирогов съедено: " + sumPie);
         System.out.println("Сыра съедено: " + sumCheese);
-        System.out.println("Всего хорошего!");
-        System.out.println(":)");
+        System.out.print("Всего хорошего! ");
+        System.out.print(":)");
     }
 }
